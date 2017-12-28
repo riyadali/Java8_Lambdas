@@ -2,8 +2,11 @@
 Book page - http://oreil.ly/java_8_lambdas
 
 Book text - http://www.r-5.org/files/books/computers/languages/java/fp/Richard_Warburton-Java_8_Lambdas-EN.pdf
+
 Answers to exercises - github.com/RichardWarburton/java-8-lambdas-exercises
+
 Author - Richard Warburton
+
 Summary - Lambda expressions are a fairly simple change to Jav, and the first part of the book shows you how to use them properly.
           Later chapters show you how lambda functions help you to improve performance with parallelism, write simpler concurrent code, #           and model your domain more accurately, including building better DSLs.
 
